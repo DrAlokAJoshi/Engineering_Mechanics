@@ -7,7 +7,7 @@
 Any textbook prescribed by your institute is suitable. The books below are additional references that students may find useful.
 
 | Book title | Author(s) | Publisher | Edition / availability |
-|---|---|---|---|
+|---------|---|---|---|
 | *Engineering Mechanics: Vector and Classical Approach* | S. S. Bhavikatti | New Age International Publishers | Indian edition |
 | *A Textbook of Engineering Mechanics* | R. K. Bansal and Sanjay Bansal | Laxmi Publications | Indian edition |
 | *A Textbook of Engineering Mechanics* | R. S. Khurmi and N. Khurmi | S. Chand Publishing | Indian edition |
@@ -23,7 +23,7 @@ Any textbook prescribed by your institute is suitable. The books below are addit
 ## Course plan: Engineering Mechanics — Statics
 
 | Week | Topic | Main focus |
-|---|---|---|
+|----|---|---|
 | Week 1 | Static equilibrium of rigid bodies | Free-body diagrams, equilibrium equations, and solving for unknown forces and moments |
 | Week 2 | Analysis of structures: frames, machines, beams and cables | Determining internal and external forces in common engineering structures |
 | Week 3 | Friction | Dry friction and its application to practical engineering systems |
