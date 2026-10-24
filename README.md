@@ -19,8 +19,6 @@ Any textbook prescribed by your institute is suitable. The books below are addit
 | *Engineering Mechanics* | S. Timoshenko, D. H. Young, J. V. Rao, and Sukumar Pati | McGraw Hill Education | Check the edition available locally |
 | *Vector Mechanics for Engineers: Statics and Dynamics* | Ferdinand P. Beer, E. Russell Johnston, David Mazurek, Phillip J. Cornwell, and Brian Self | McGraw Hill Education (India) | Indian edition available |
 
-*Note:* Edition names and availability can change. Check the edition and contents against your institute's syllabus before purchasing. You do not need to buy every book; start with your institute's prescribed text and use additional references when helpful.
-
 ## General learning resources
 
 - [AICTE e-Kumbh — textbooks and learning resources](https://ekumbh.aicte-india.org/book.php)
@@ -31,7 +29,7 @@ Any textbook prescribed by your institute is suitable. The books below are addit
 | Week | Topic | Main focus |
 |---|---|---|
 | Week 1 | Static equilibrium of rigid bodies | Free-body diagrams, equilibrium equations, and solving for unknown forces and moments |
-| Week 2 | Analysis of structures: frames, machines, and cables | Determining internal and external forces in common engineering structures |
+| Week 2 | Analysis of structures: frames, machines, beams and cables | Determining internal and external forces in common engineering structures |
 | Week 3 | Friction | Dry friction and its application to practical engineering systems |
 
 ## Course materials
@@ -44,4 +42,3 @@ Suggested structure:
 - [Week 2 — Frames, machines, and cables](./Engineering-Mechanics-Statics/Week2/)
 - [Week 3 — Friction](./Engineering-Mechanics-Statics/Week3/)
 
-> **For students:** Begin with the relevant course notes, attempt the problems independently, and then use worked solutions to check both your method and your interpretation of the result.
