@@ -2,10 +2,6 @@
 
 > **Course focus:** Understand the fundamentals of engineering mechanics and apply them to analyze, solve, and interpret solutions to practical engineering problems.
 
-## Course objective
-
-The objective of this course is to build a strong foundation in engineering mechanics, with an emphasis on applying fundamental principles to practical problems, developing systematic problem-solving skills, and interpreting the results.
-
 ## Recommended books
 
 Any textbook prescribed by your institute is suitable. The books below are additional references that students may find useful.
