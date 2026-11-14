@@ -1,0 +1,59 @@
+---
+title: "Engineering Mechanics"
+subtitle: "Course focus: Understand the fundamentals of engineering mechanics and apply them to analyze, solve, and interpret solutions to practical engineering problems."
+date: last-modified
+date-format: "D MMMM YYYY"
+date-modified: last-modified
+toc: true
+toc-depth: 2
+toc-title: "On this page"
+number-sections: false
+---
+
+## Teaching Plan {#teaching-plan}
+
+**Engineering Mechanics: Statics**
+
+| Week | Topic | Main focus |
+|:----:|:------|:-----------|
+| 1 | Static equilibrium of rigid bodies | Free-body diagrams, equilibrium equations, and solving for unknown forces and moments |
+| 2 | Analysis of structures: frames, machines, beams and cables | Determining internal and external forces in common engineering structures |
+| 3 | Friction | Dry friction and its application to practical engineering systems |
+| 4 | Additional topics | Instructor-led topics, student-led review of key projects |
+
+: {.striped .hover tbl-colwidths="[8,30,62]"}
+
+## Data Resources {#data-resources}
+
+Specific data sources to be used during the course.
+
+### Support reactions and free-body diagrams
+
+- [**Engineering Statics: Free-Body Diagrams**](https://engineeringstatics.org/Chapter_05-free-body-diagrams.html){target="_blank"}: reactions from 2D and 3D supports.
+
+### Centroids and moment of inertia (area)
+
+- [**MechanicsMap (Penn State): Centroids, 2D**](https://mechanicsmap.psu.edu/websites/centroidtables/centroids2D/centroids2D.html){target="_blank"}: centroid and area moment of inertia tables for 2D shapes.
+- [**MechanicsMap (Penn State): Centroids, 3D**](https://mechanicsmap.psu.edu/websites/centroidtables/centroids3D/centroids3D.html){target="_blank"}: centroid and area moment of inertia tables for 3D shapes.
+
+## Recommended Books {#recommended-books}
+
+::: {.callout-note}
+Any textbook prescribed by your institute is suitable. The books below are additional references that students may find useful.
+:::
+
+| Book title | Author(s) | Publisher | Edition / availability |
+|:-----------|:----------|:----------|:-----------------------|
+| Engineering Mechanics: Vector and Classical Approach | S. S. Bhavikatti | New Age International Publishers | Indian edition |
+| A Textbook of Engineering Mechanics | R. K. Bansal and Sanjay Bansal | Laxmi Publications | Indian edition |
+| A Textbook of Engineering Mechanics | R. S. Khurmi and N. Khurmi | S. Chand Publishing | Indian edition |
+| Engineering Mechanics: Statics & Dynamics | Russell C. Hibbeler | Pearson Education | International author; Indian/SI edition available |
+| Engineering Mechanics | S. Timoshenko, D. H. Young, J. V. Rao, and Sukumar Pati | McGraw Hill Education | Check the edition available locally |
+| Vector Mechanics for Engineers: Statics and Dynamics | Ferdinand P. Beer, E. Russell Johnston, David Mazurek, Phillip J. Cornwell, and Brian Self | McGraw Hill Education (India) | Indian edition available |
+
+: {.striped .hover tbl-colwidths="[28,32,18,22]"}
+
+## General Learning Resources {#learning-resources}
+
+- [**AICTE e-Kumbh**](https://ekumbh.aicte-india.org/book.php){target="_blank"}: textbooks and learning resources.
+- [**NPTEL**](https://nptel.ac.in/courses){target="_blank"}: online courses.
